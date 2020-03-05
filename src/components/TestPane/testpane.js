@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TestInfoPane from './testInfoPane.js';
+import TestInfoPane from './TestInfoPane.js';
 import CheckboxLabels from './checkbox';
 import './testpane.css';
 

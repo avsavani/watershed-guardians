@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ReactMapGL, { Marker } from 'react-map-gl';
-import Pin from './pin';
+import Pin from './Pin';
 import data from '../../data.js';
 import './map.css';
 import 'mapbox-gl/dist/mapbox-gl.css';

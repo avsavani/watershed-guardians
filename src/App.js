@@ -1,6 +1,6 @@
 import React from 'react';
 import Chart from './components/Chart/chart.js';
-import Map from './components/Map/map';
+import Map from './components/Map/Map';
 import data from './data';
 import Infopane from './components/InfoPane/infopane';
 
